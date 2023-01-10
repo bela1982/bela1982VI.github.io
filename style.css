@@ -1,0 +1,156 @@
+@font-face {
+    font-family: inter;
+    src: url(Font/Inter-VariableFont_slnt\,wght.ttf);
+}
+    
+
+body {
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+}
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: #FFFFFF;
+}
+
+.card
+{
+    
+
+
+    background: #FFFFFF;
+    position: absolute;
+    width: 647px;
+    height: 323px;
+    left: 415px;
+    top: 20px;
+    
+    background: url(image.png);
+}
+.bloki1
+{
+ position: absolute;
+width: 171px;
+height: 222px;
+left: 465px;
+top: 210px;
+
+background: url(image);
+}
+.a {
+   position: absolute;
+width: 267px;
+height: 10px;
+left: 570px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 7px;
+line-height: 10px;
+
+color: #000000;
+
+}
+.text1 {
+ 
+
+
+    position: absolute;
+    width: 100px;
+    height: 200px;
+    left: 570px;
+    top: 220px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 550;
+    font-size: 5px;
+    line-height: 10px;
+    
+    color: #000000;
+}
+ p {
+    
+position: absolute;
+width: 230px;
+height: 12px;
+left: 470px;
+top: 330px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 12px;
+line-height: 24px;
+
+color: #000000;
+
+
+ }
+ 
+ .burger {
+    position: absolute;
+width: 175px;
+height: 14px;
+left: 514px;
+top: 699px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+ }
+ .salad {
+    
+    position: absolute;
+    width: 175px;
+    height: 14px;
+    left: 514px;
+    top: 734px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #000000;
+ }
+ .menu {
+    position: absolute;
+width: 175px;
+height: 14px;
+left: 360px;
+top: 712px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000; 
+ }
+ .bloki2 {
+ position: absolute;
+width: 208px;
+height: 322px;
+left: 570px;
+top: 350px;
+
+background: url(image.png);
+ }
+
+
+
